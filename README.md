@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>⚡Building AI based projects(Agents, ML systems)<br>🛜Learning Cybersecurity and it's Practical implementation<br>💬 Strengthening Data structures and algorithms<br>🌐Preparing for fresher job roles<br>🎟️Designing next-level interactive websites <br>
+🔭 I’m currently working on:- <br>⚡Building AI based projects(Agents, ML systems)<br>🛜Learning Cybersecurity and it's Practical implementation<br>💬 Strengthening Data structures and algorithms<br>🌐Preparing for fresher job roles<br>🎟️Designing next-level interactive websites <br>
 
 
 # 💻 Tech Stack:
