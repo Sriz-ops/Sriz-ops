@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**Sriz-ops/Sriz-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>⚡Building AI based projects(Agents, ML systems)<br>🛜Learning Cybersecurity and it's Practical implementation<br>💬 Strengthening Data structures and algorithms<br>🌐Preparing for fresher job roles<br>🎟️Designing next-level interactive websites <br>
 
 
@@ -29,5 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Sriz-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
